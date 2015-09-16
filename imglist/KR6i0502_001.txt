@@ -1,0 +1,5 @@
+001-0742c23	TKD 19-0904c	buddhist/K-koreana/19-tif/0900-0999/19_0904_C.TIF
+001-0743a13	TKD 19-0905a	buddhist/K-koreana/19-tif/0900-0999/19_0905_A.TIF
+001-0743b03	TKD 19-0905b	buddhist/K-koreana/19-tif/0900-0999/19_0905_B.TIF
+001-0743a00	T 001-0743a	buddhist/T-taisho/T17/07/T17-0743.png
+001-0743b00	T 001-0743b	buddhist/T-taisho/T17/07/T17-0743.png
