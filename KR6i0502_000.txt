@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說貧窮老公經
+#+DATE: 2015-08-30 20:21:08.225790
+#+PROPERTY: JUAN 0
