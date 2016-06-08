@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 797a
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0502_T_001-0742c> 
 #+PROPERTY: JUAN 1
 ¶
@@ -136,7 +136,7 @@ No. 797¶
 於是，老公比丘聞經歡喜，為佛作禮。
 
 爾時，世¶
-尊顧語阿難：「若有誦斯經者，當見賢劫千佛。¶
+尊󳬼語阿難：「若有誦斯經者，當見賢劫千佛。¶
 行斯經者，令後世宣傳，當從彌勒佛受決。如¶
 來廣長舌，所語無有異。」
 
